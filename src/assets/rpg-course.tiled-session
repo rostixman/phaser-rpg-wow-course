@@ -1,0 +1,46 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "durotar.json",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInEditor": 1
+        },
+        "Summer_Tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "durotar.json": {
+            "scale": 0.6254166666666666,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 438.9073950699534,
+                "y": 400.5329780146569
+            }
+        },
+        "durotar.json#durotar": {
+            "scaleInDock": 1
+        },
+        "durotar.json#tiles": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "/Users/rostixman/Sync/Projects/bize/rpg-course/src/assets",
+    "map.lastUsedFormat": "json",
+    "openFiles": [
+        "durotar.json"
+    ],
+    "project": "rpg-course.tiled-project",
+    "recentFiles": [
+        "Summer_Tiles.tsx",
+        "durotar.json"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.spacing": 1
+}
